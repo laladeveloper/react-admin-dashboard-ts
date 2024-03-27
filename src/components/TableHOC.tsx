@@ -1,7 +1,3 @@
-import {
-  AiOutlineSortAscending,
-  AiOutlineSortDescending,
-} from "react-icons/ai";
 import { GrAscend, GrDescend } from "react-icons/gr";
 import {
   Column,
